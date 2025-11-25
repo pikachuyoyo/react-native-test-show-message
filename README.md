@@ -1,4 +1,4 @@
-# react-native-popup-message
+# react-native-test-show-message
 
 show message
 
@@ -6,7 +6,7 @@ show message
 
 
 ```sh
-npm install react-native-popup-message
+npm install react-native-test-show-message
 ```
 
 
@@ -14,7 +14,7 @@ npm install react-native-popup-message
 
 
 ```js
-import { multiply } from 'react-native-popup-message';
+import { multiply } from 'react-native-test-show-message';
 
 // ...
 

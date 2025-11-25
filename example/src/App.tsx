@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-popup-message';
+import { multiply } from 'react-native-test-show-message';
 
 const result = multiply(3, 7);
 

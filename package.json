@@ -1,5 +1,5 @@
 {
-  "name": "react-native-popup-message",
+  "name": "react-native-test-show-message",
   "version": "0.1.0",
   "description": "show message",
   "main": "./lib/module/index.js",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-popup-message-example",
+    "example": "yarn workspace react-native-test-show-message-example",
     "clean": "del-cli lib",
     "prepare": "bob build",
     "typecheck": "tsc",
@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pikachuyoyo/react-native-popup-message.git"
+    "url": "git+https://github.com/pikachuyoyo/react-native-test-show-message.git"
   },
   "author": "roongroj <pikachu_yoyo@hotmail.com> (https://github.com/pikachuyoyo)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pikachuyoyo/react-native-popup-message/issues"
+    "url": "https://github.com/pikachuyoyo/react-native-test-show-message/issues"
   },
-  "homepage": "https://github.com/pikachuyoyo/react-native-popup-message#readme",
+  "homepage": "https://github.com/pikachuyoyo/react-native-test-show-message#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

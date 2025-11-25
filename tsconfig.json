@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-popup-message": ["./src/index"]
+      "react-native-test-show-message": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
